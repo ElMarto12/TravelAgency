@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<order>
+    <id>0</id>
+    <orderDate>2023-03-01</orderDate>
+    <travelers>
+        <traveler>
+            <firstName>John</firstName>
+            <id>0</id>
+            <lastName>Smith</lastName>
+        </traveler>
+        <traveler>
+            <firstName>Marie</firstName>
+            <id>0</id>
+            <lastName>Smith</lastName>
+        </traveler>
+    </travelers>
+    <trips>
+        <trip>
+            <cost>500</cost>
+            <id>0</id>
+            <location>Egypt</location>
+            <name>Explore Egypt</name>
+            <organizationName>TravelXDFast</organizationName>
+            <tripDuration>1 Week</tripDuration>
+        </trip>
+        <trip>
+            <cost>1000</cost>
+            <id>0</id>
+            <location>Thailand</location>
+            <name>Asia Wonders</name>
+            <organizationName>OMGTrips</organizationName>
+            <tripDuration>2 Weeks</tripDuration>
+        </trip>
+    </trips>
+</order>
